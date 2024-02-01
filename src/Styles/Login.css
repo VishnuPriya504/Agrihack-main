@@ -1,0 +1,16 @@
+body{
+    overflow-x: hidden;
+}
+.center {
+    display: flex;
+    
+    justify-content:center ;
+    align-items: center;
+    height:100vh;  
+    margin : 0px auto;
+}
+.f{
+    padding:8%;
+    box-shadow: 5px 10px 10px orange;
+    border-radius: 2%;
+}
